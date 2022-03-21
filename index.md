@@ -1,6 +1,8 @@
 # Assignment 1, S1 2022 - *Creating HTML using modern technologies*
 
-## 1. Meme:
+## **PART A**
+
+### 1. Meme:
 ![](my_meme.png)
 
 ## 2. R code:
@@ -49,8 +51,7 @@ meme <- c(top_row, bottom_row) %>%
   image_append(stack = TRUE) %>%
   image_scale(800)
 ```
-
-## 3. Information:
+### 3. Information:
 - *what the motivation was?*
 - *how your meme is new/original?*
 
