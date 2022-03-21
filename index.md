@@ -1,3 +1,5 @@
+![](my_meme.png)
+
 ```r
 # square one
 flag_tonga <- image_read("https://cdn.pixabay.com/photo/2012/04/11/15/44/flag-28596_1280.png") %>%
@@ -44,4 +46,4 @@ meme <- c(top_row, bottom_row) %>%
   image_scale(400)
 ```
 
-The motivation for the meme I have created is my beautiful island, Tonga. Due to the current ongoing pandemic that we are facing globally, it has been extremely difficult being away for so long. My meme is new/original because it reflects who I am. I am Tongan, and Tonga is my home. I have adapted an existing meme format (four squares) as I believe the images I have used tell more than my words. 
+# The motivation for the meme I have created is my beautiful island, Tonga. Due to the current ongoing pandemic that we are facing globally, it has been extremely difficult being away for so long. My meme is new/original because it reflects who I am. I am Tongan, and Tonga is my home. I have adapted an existing meme format (four squares) as I believe the images I have used tell more than my words. 
