@@ -1,7 +1,7 @@
-## 1. Meme image
+## 1. Meme:
 ![](my_meme.png)
 
-## 2. Meme R code
+## 2. R code:
 ```r
 # square one
 flag_tonga <- image_read("https://cdn.pixabay.com/photo/2012/04/11/15/44/flag-28596_1280.png") %>%
